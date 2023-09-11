@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fiona\\Personal\\DBS\\B8IT122\\CA\\Pets\\Pets.csproj": {}
+    "/Users/aoifeoconnor/Documents/B8IT122/Pets/Pets.csproj": {}
   },
   "projects": {
-    "C:\\Fiona\\Personal\\DBS\\B8IT122\\CA\\Pets\\Pets.csproj": {
+    "/Users/aoifeoconnor/Documents/B8IT122/Pets/Pets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fiona\\Personal\\DBS\\B8IT122\\CA\\Pets\\Pets.csproj",
+        "projectUniqueName": "/Users/aoifeoconnor/Documents/B8IT122/Pets/Pets.csproj",
         "projectName": "Pets",
-        "projectPath": "C:\\Fiona\\Personal\\DBS\\B8IT122\\CA\\Pets\\Pets.csproj",
-        "packagesPath": "C:\\Users\\442445\\.nuget\\packages\\",
-        "outputPath": "C:\\Fiona\\Personal\\DBS\\B8IT122\\CA\\Pets\\obj\\",
+        "projectPath": "/Users/aoifeoconnor/Documents/B8IT122/Pets/Pets.csproj",
+        "packagesPath": "/Users/aoifeoconnor/.nuget/packages/",
+        "outputPath": "/Users/aoifeoconnor/Documents/B8IT122/Pets/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\442445\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/aoifeoconnor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -94,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

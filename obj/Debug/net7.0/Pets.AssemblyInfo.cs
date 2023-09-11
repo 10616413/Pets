@@ -10,6 +10,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Pets-4a5cd088-ee28-48ca-855d-1613b48b6368")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pets")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
